@@ -64,7 +64,7 @@ This project demonstrates a complete data pipeline for an e-commerce system, cov
 
 ## 📈 Dashboard
 
-🔗 Add your Looker Studio link here
+https://datastudio.google.com/reporting/27950cd5-9758-494d-a3bc-525f8e407626
 
 ---
 
